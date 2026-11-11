@@ -30,9 +30,9 @@ The 22 supplemental controls and 10 supplemental attack-path scenarios are optio
 
 ## Download Version 1.0
 
-[**Download the complete framework package (ZIP)**](https://raw.githubusercontent.com/santosh-pillai/digital-asset-threat-led-security-assessment-framework/main/releases/v1.0/Complete_Framework_v1.0.zip)
+**Version 1.0 downloads:** the four framework documents and complete ZIP will be published as downloadable assets in the [GitHub Releases](https://github.com/santosh-pillai/digital-asset-threat-led-security-assessment-framework/releases) section.
 
-The ZIP contains the four companion documents:
+The complete package will contain the four companion documents:
 
 1. Master Assessment Workbook (.xlsx)
 2. Regulatory and Standards Crosswalk (.xlsx)
