@@ -10,8 +10,8 @@ The Version 1.0 distribution consists of:
 
 1. Master Assessment Workbook (.xlsx)
 2. Regulatory and Standards Crosswalk (.xlsx)
-3. Assessment Methodology and Guidance (.docx)
-4. Start Here Guide (.docx)
+3. Assessment Methodology and Guidance (.pdf)
+4. Start Here Guide (.pdf)
 5. Complete Framework package (.zip)
 
 ## Baseline
