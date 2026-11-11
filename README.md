@@ -8,6 +8,9 @@ Cybersecurity and Digital Asset Security Leader
 Website: [santoshpillai.com](https://santoshpillai.com)  
 LinkedIn: [linkedin.com/in/santhoshk1](https://www.linkedin.com/in/santhoshk1/)
 
+**Zenodo DOI:** [10.5281/zenodo.24131602](https://doi.org/10.5281/zenodo.24131602)  
+**Zenodo record:** [https://zenodo.org/records/24131602](https://zenodo.org/records/24131602)
+
 ## Overview
 
 The Digital Asset Threat-Led Security Assessment Framework is a technical assessment aid designed to help security teams validate whether technical controls withstand realistic attack paths across digital-asset environments.
@@ -42,6 +45,14 @@ The release includes:
 
 Download the complete package or select individual documents from the v1.0 release assets.
 
+## Research record and DOI
+
+The Version 1.0 publication is archived on Zenodo and can be cited using its persistent DOI:
+
+**[https://doi.org/10.5281/zenodo.24131602](https://doi.org/10.5281/zenodo.24131602)**
+
+Zenodo record: [https://zenodo.org/records/24131602](https://zenodo.org/records/24131602).
+
 ## Intended users
 
 The framework may be useful to CISOs and cybersecurity leaders, digital-asset exchanges, digital-asset custodians, wallet and key-management providers, blockchain and Web3 infrastructure operators, security architects, technical assessors and cybersecurity advisory professionals.
@@ -75,13 +86,17 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Suggested attribution:
 
-> Santosh Pillai, *Digital Asset Threat-Led Security Assessment Framework v1.0*, https://santoshpillai.com, licensed under CC BY 4.0.
+> Santosh Pillai, *Digital Asset Threat-Led Security Assessment Framework v1.0*, https://doi.org/10.5281/zenodo.24131602, licensed under CC BY 4.0.
 
 Third-party materials, trademarks, source documents and content expressly identified as third-party material are not relicensed by this notice. Users are responsible for checking any separate rights or restrictions that apply.
 
 ## Citation
 
 A machine-readable citation is provided in [CITATION.cff](CITATION.cff).
+
+**Suggested citation (APA):**
+
+Pillai, S. (2026). *Digital Asset Threat-Led Security Assessment Framework* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.24131602
 
 ## Versioning
 
@@ -95,4 +110,5 @@ Suggestions, corrections and proposed improvements are welcome through GitHub Is
 
 **Developed by Santosh Pillai**  
 Cybersecurity and Digital Asset Security Leader  
-[Website](https://santoshpillai.com) | [LinkedIn](https://www.linkedin.com/in/santhoshk1/)
+[Website](https://santoshpillai.com) | [LinkedIn](https://www.linkedin.com/in/santhoshk1/)  
+**DOI:** [10.5281/zenodo.24131602](https://doi.org/10.5281/zenodo.24131602)
